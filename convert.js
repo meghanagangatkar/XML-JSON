@@ -100,11 +100,12 @@ function JSONtoXML(obj) {
 	function resetX()
 	{
 		document.getElementById("xmlArea").value='';
-		
-	}
-	function resetJ()
-	{
 		document.getElementById("jsonArea").value='';
 		
 	}
+	// function resetJ()
+	// {
+	// 	document.getElementById("jsonArea").value='';
+		
+	// }
 	

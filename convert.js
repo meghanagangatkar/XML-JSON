@@ -103,9 +103,9 @@ function JSONtoXML(obj) {
 		document.getElementById("jsonArea").value='';
 		
 	}
-	// function resetJ()
-	// {
-	// 	document.getElementById("jsonArea").value='';
+	 function resetJ()
+	 {
+		document.getElementById("jsonArea").value='';
 		
-	// }
+	}
 	
